@@ -2,6 +2,17 @@
 layout: default
 ---
 
+## Key Highlights
+
+* **Deployed, diagnosed, and repaired 1,000+ IT devices for 100+ enterprise and consumer clients** with quickest turnaround time company-wide.
+* **Led 3 BSc IT group project teams** to produce excellent outcomes ahead of deadlines.
+* **Supervised and trained 2 junior IT techs,** improving team proficiency.
+* **Built and deployed 20+ responsive websites** usingWordPress and HTML/CSS on WHM/cPanel.
+* **Directed international outreach teams** for multiple non-profits, managing planning, logistics, and operations.
+* **Produced high-performing technical and marketing content** for major media agencies and big companies.
+* **Balanced full-time BSc IT studies (with distinctions)**, part-time technician work, and part-time ministry with consistent excellence.
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
