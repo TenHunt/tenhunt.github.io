@@ -17,30 +17,30 @@ title: Technician, Developer, Leader
 
 ## Work Experience
 
-_2024-2025_ - **IT Technician - BDKTech \| Part-time**  
+**IT Technician - BDKTech \| Part-time** - _2024-2025_  
 Installed and managed servers, networks,desktops, laptops, VoIP, and more with deep knowledge of consumer and enterprise systems and technologies. Translated complex tech into simple language for end users.
 
-_2017-2023_ - **Technology Copywriter - Freelance**  
+**Technology Copywriter - Freelance** - _2017-2023_  
 
-_2018, 2020-2022_ - **Ministry Staff & Leader - YWAM/Shofar**  
+**Ministry Staff & Leader - YWAM/Shofar** - _2018, 2020-2022_  
 Directed international outreach teams for YWAM and staffed at Shofar church. Trained students for the mission field and managedchurch operations.
 
-_2019_ - **IT Technician - Deo Data \| Part-time**  
+**IT Technician - Deo Data \| Part-time** - _2019_  
 
-_2016-2017_ - **Hosting Manager & Website Developer - Web Crew | Part-time**  
+**Hosting Manager & Website Developer - Web Crew | Part-time** - _2016-2017_  
 Managed the server including all clients using WHM/cPanel and WHMCS, provided level 1and 2 tech support, and developed websites.
 
 * * *
 
 ## Education
 
-_2023-2025_ - **BSc Information Technology - North-West University**  
+**BSc Information Technology - North-West University** - _2023-2025_  
 Completed with multiple distinctions. Improved technical skills and solidified work experience. Led 3 group project teams delivering excellent results before deadlines.
 
-_2024_ - **CompTIA A+ Certification**  
+**CompTIA A+ Certification** - _2024_  
 Completed the A+ certification to solidify my knowledge as an IT tech.
 
-_2019_ - **Higher Certificate in Business Management - Regent Business School**  
+**Higher Certificate in Business Management - Regent Business School** - _2019_  
 Achieved Cum Laude while working as a copywriter and part-time IT technician.
 
 * * *
