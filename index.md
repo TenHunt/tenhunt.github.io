@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Daniël De Jager | Technician, Developer, Leader
+title: Technician, Developer, Leader
 ---
 
 ## Key Highlights
