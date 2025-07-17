@@ -12,6 +12,7 @@ layout: default
 * **Produced high-performing technical and marketing content** for major media agencies and big companies.
 * **Balanced full-time BSc IT studies (with distinctions)**, part-time technician work, and part-time ministry with consistent excellence.
 
+<i class="fas fa-envelope" style="font-size: 1.5em; color: #333;"></i>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
