@@ -48,10 +48,10 @@ Achieved Cum Laude while working as a copywriter and part-time IT technician.
 ## [Project Portfolio](https://github.com/TenHunt/Portfolio/tree/main)
 
 **[C# (Visual Studio)](https://github.com/TenHunt/Portfolio/tree/main/C%23%20(Visual%20Studio))**  
-* **Birthday Scheduler (ASP.NET) - An intuitive birthday schedule system to keep track of birthdays, specifically aimed at manager at smaller companies who want to effectively manage employee birthdays.
-* **Database Showcase (WinForm) - A showcase for basic databases in Windows Forms, and also window-in-window functionality to some extent.
-* **Loadshedding Schedule (WinForm) - A notification app that notifies the user when loadshedding is happening in their location.
-* **Title Capitalizer (WinForm) - A little app that helps writers to properly capitalize their titles.
+* Birthday Scheduler (ASP.NET) - An intuitive birthday schedule system to keep track of birthdays, specifically aimed at manager at smaller companies who want to effectively manage employee birthdays.
+* Database Showcase (WinForm) - A showcase for basic databases in Windows Forms, and also window-in-window functionality to some extent.
+* Loadshedding Schedule (WinForm) - A notification app that notifies the user when loadshedding is happening in their location.
+* Title Capitalizer (WinForm) - A little app that helps writers to properly capitalize their titles.
 
 **[C++](https://github.com/TenHunt/Portfolio/tree/main/C%2B%2B)**
 * **Chess Game (WIP) - An attempt at a full Chess game in the commmand line.
