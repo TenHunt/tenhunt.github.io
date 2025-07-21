@@ -48,23 +48,23 @@ Achieved Cum Laude while working as a copywriter and part-time IT technician.
 ## [Project Portfolio](https://github.com/TenHunt/Portfolio/tree/main)
 
 **[C# (Visual Studio)](https://github.com/TenHunt/Portfolio/tree/main/C%23%20(Visual%20Studio))**  
-* Birthday Scheduler (ASP.NET) - An intuitive birthday schedule system to keep track of birthdays, specifically aimed at manager at smaller companies who want to effectively manage employee birthdays.
-* Database Showcase (WinForm) - A showcase for basic databases in Windows Forms, and also window-in-window functionality to some extent.
-* Loadshedding Schedule (WinForm) - A notification app that notifies the user when loadshedding is happening in their location.
-* Title Capitalizer (WinForm) - A little app that helps writers to properly capitalize their titles.
+* **Birthday Scheduler (ASP.NET)** - An intuitive birthday schedule system to keep track of birthdays, specifically aimed at manager at smaller companies who want to effectively manage employee birthdays.
+* **Database Showcase (WinForm)** - A showcase for basic databases in Windows Forms, and also window-in-window functionality to some extent.
+* **Loadshedding Schedule (WinForm)** - A notification app that notifies the user when loadshedding is happening in their location.
+* **Title Capitalizer (WinForm)** - A little app that helps writers to properly capitalize their titles.
 
 **[C++](https://github.com/TenHunt/Portfolio/tree/main/C%2B%2B)**
-* **Chess Game (WIP) - An attempt at a full Chess game in the commmand line.
-* **Display, Record, and Swap Scores - Scoring app with input and output features.
-* **Easy Bubble Sort Algorithm - A showcase of bubble sorting in practice.
-* **Guessing Game - A basic guessing game versus the computer.
-* **Two-Dimensional Array Order Sorter - Another sorting showcase with a more advanced algorithm using arrays.
+* **Chess Game (WIP)** - An attempt at a full Chess game in the commmand line.
+* **Display, Record, and Swap Scores** - Scoring app with input and output features.
+* **Easy Bubble Sort Algorithm** - A showcase of bubble sorting in practice.
+* **Guessing Game** - A basic guessing game versus the computer.
+* **Two-Dimensional Array Order Sorter** - Another sorting showcase with a more advanced algorithm using arrays.
 
 **[Java (other projects coming soon)](https://github.com/TenHunt/Portfolio/tree/main/Java)**
-* **Handling Exceptions - A showcase of Java exception handling functionality.
+* **Handling Exceptions** - A showcase of Java exception handling functionality.
 
 **[SQL and Systems Analysis](https://github.com/TenHunt/Portfolio/tree/main/SQL%20(Oracle))**
-* **CMPG223 Group Project - One of the group projects I led, involving analysis, presentation, design, and implementation.
+* **CMPG223 Group Project** - One of the group projects I led, involving analysis, presentation, design, and implementation.
 
 * * *
 
